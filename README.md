@@ -26,16 +26,29 @@
 
 ---
 
-## 👨‍💻 About Me
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=About%20Me&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlign=50" width="100%" alt="About Me Header" />
+</div>
 
-* 🎓 AI Engineering & Data Science student at **Zagazig National University**
-* 🤖 Passionate about **Artificial Intelligence, Data Science, and Generative AI**
-* 📚 Strong background in **Computer Science fundamentals**
-* 🌱 Always learning and improving my technical and analytical skills
-- 🔭 I’m currently working on *Generative AI & Computer Graphics Projects*
-- 🌱 I’m currently learning *Deep Learning & Advanced OCI Services*
-- 🏆 *Certified:* Oracle Cloud Infrastructure 2025 Generative AI Professional
-- 💬 Ask me about *C++, Python, OOP, Data Structures, and AI*
+<table>
+  <tr>
+    <td width="60%" valign="center">
+      <ul>
+        <li>🎓 <strong>AI Engineering & Data Science</strong> student at <b>Zagazig National University</b></li>
+        <li>🤖 Passionate about <strong>Artificial Intelligence, Data Science, and Generative AI</strong></li>
+        <li>📚 Strong background in <strong>Computer Science fundamentals</strong></li>
+        <li>🌱 Always learning and improving my technical and analytical skills</li>
+        <li>🔭 I’m currently working on <i>Generative AI & Computer Graphics Projects</i></li>
+        <li>🌱 I’m currently learning <i>Deep Learning & Advanced OCI Services</i></li>
+        <li>🏆 <strong>Certified:</strong> Oracle Cloud Infrastructure 2025 Generative AI Professional</li>
+        <li>💬 Ask me about <i>C++, Python, OOP, Data Structures, and AI</i></li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="AI Coding Animation">
+    </td>
+  </tr>
+</table>
 
 ---
 ## 🚀 Technical Skills
@@ -84,12 +97,13 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
+---
 
 ```cpp
 // A little bit about me in code
 class MazenWagih {
 public:
-    string major = "AI Engineering";
-    vector<string> languages = {"C++", "Python", "Java", "SQL"};
-    vector<string> interests = {"Artificial Intelligence", "Data Science", "Generative AI"};
+    string major = "AI Engineering";
+    vector<string> languages = {"C++", "Python", "Java", "SQL"};
+    vector<string> interests = {"Artificial Intelligence", "Data Science", "Generative AI"};
 };
