@@ -1,12 +1,12 @@
-<div align="center" width="50">
+<div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/>
+<br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/>
 
 <h1>Hi, I'm Mazen Wagih Abdullah 👋</h1>
-<h3>Artificial Intelligence Student | Problem Solver | C++ & Python Developer</h3>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Mazen-Wagih&style=flat&color=orange&label=PROFILE+VIEWS)
+<h3>AI Engineering Student | Faculty of Computers & Information</h3>
+<p>Zagazig National University (2024 – 2028)</p>
 
 </div>
 
@@ -14,58 +14,90 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Student at **Faculty of Artificial Intelligence**
-- 🤖 Interested in **Artificial Intelligence, Data Structures, and Problem Solving**
-- 💡 Strong foundation in **C++**, **Python**, and **Algorithms**
-- 📊 Passionate about **Data Science & Machine Learning**
-- 🚀 Always learning and building academic & practical projects
+* 🎓 AI Engineering & Data Science student at **Zagazig National University**
+* 🤖 Passionate about **Artificial Intelligence, Data Science, and Generative AI**
+* 📚 Strong background in **Computer Science fundamentals**
+* 🌱 Always learning and improving my technical and analytical skills
 
 ---
 
 ## 🚀 Technical Skills
 
-### 🧠 Programming Languages
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+**Programming Languages**
+C++ · Python · Java · SQL
 
-### 📚 Computer Science
-- Data Structures (Stack, Queue, Linked List, Trees)
-- Algorithms & Problem Solving
-- Object-Oriented Programming (OOP)
-- File Handling & Memory Management
+**Computer Science Fundamentals**
+Data Structures · Databases · Computer Architecture · Assembly
 
-### 🧪 AI & Data
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=flat)
+**AI & Data**
+Artificial Intelligence Fundamentals · Data Science Basics · Statistics & Probability
 
-### 🛠 Tools & Platforms
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+**Systems & Tools**
+Linux Command Line · Git · VS Code · Windows · GNU/Linux
 
 ---
 
-## 🧩 Code Snapshot
-
 ```cpp
-// Core interests organized
-
-class Mazen {
+// A little bit about me in code
+class MazenWagih {
 public:
-    string field = "Artificial Intelligence";
-    
-    vector<string> skills = {
-        "C++", "Python", "Data Structures",
-        "Algorithms", "Problem Solving"
-    };
-
-    vector<string> interests = {
-        "Machine Learning",
-        "Data Science",
-        "AI Applications"
-    };
+    string major = "AI Engineering";
+    vector<string> languages = {"C++", "Python", "Java", "SQL"};
+    vector<string> interests = {"Artificial Intelligence", "Data Science", "Generative AI"};
 };
+```
+
+---
+
+## 📜 Certifications & Courses
+
+* **Oracle Cloud Infrastructure 2025 Certified Generative AI Professional** (Oracle University)
+* **Introduction to Modern AI** – Cisco Networking Academy
+* **Introduction to Data Science** – Cisco Networking Academy
+* **Introduction to AI in Azure** – Microsoft
+* **Artificial Intelligence for Business** – LinkedIn Learning
+* **Python Programming (Beginner & Intermediate)** – Microsoft
+* **Applications of Artificial Intelligence** – British University in Egypt (BUE)
+
+---
+
+## 🏆 Events & Activities
+
+* **Cairo ICT Conference 2025** – Attendee
+* **GDG AI Day Cairo** – AI Student Participant
+
+  * LLMs & Generative AI
+  * RAG Systems & Prompt Engineering
+  * Arabic NLP
+
+---
+
+## 🌍 Languages
+
+* Arabic (Native)
+* English (Good)
+* French (Basic)
+
+---
+
+## 📫 Connect With Me
+
+* 📧 Email: **[mazenwagih2005@gmail.com](mailto:mazenwagih2005@gmail.com)**
+* 💼 LinkedIn: [linkedin.com/in/mazenwagih](https://www.linkedin.com/in/mazenwagih)
+* 🌐 Facebook: [Mazen Wagih](https://www.facebook.com/share/176LsKe77u/)
+
+---
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32%" />
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32%" />
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32%" />
+
+</div>
+
+---
+
+### ⚡ Fun Fact
+
+> I believe consistency and continuous learning are the real superpowers in tech 🚀
