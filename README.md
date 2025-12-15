@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-* 🎓 AI Engineering & Data Science student at **Zagazig National University**
+* 🎓 AI Engineering & Data Science student at     ** (Zagazig National University)**
 * 🤖 Passionate about **Artificial Intelligence, Data Science, and Generative AI**
 * 📚 Strong background in **Computer Science fundamentals**
 * 🌱 Always learning and improving my technical and analytical skills
