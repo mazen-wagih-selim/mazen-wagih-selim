@@ -4,7 +4,7 @@
 <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/>
 
-<h1> 👋 Mazen Wagih Selim </h1>
+<h1>Hi, I'm Mazen Wagih Abdullah 👋</h1>
 <h3>AI Engineering Student | Faculty of Computers & Information</h3>
 <p>Zagazig National University (2024 – 2028)</p>
 
