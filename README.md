@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Mazen+Wagih+Abdullah;AI+Engineering+Student;Zagazig+National+University" alt="Typing SVG" />
+</a>
+
 <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/>
 
@@ -45,59 +48,3 @@ public:
     vector<string> languages = {"C++", "Python", "Java", "SQL"};
     vector<string> interests = {"Artificial Intelligence", "Data Science", "Generative AI"};
 };
-```
-
----
-
-## 📜 Certifications & Courses
-
-* **Oracle Cloud Infrastructure 2025 Certified Generative AI Professional** (Oracle University)
-* **Introduction to Modern AI** – Cisco Networking Academy
-* **Introduction to Data Science** – Cisco Networking Academy
-* **Introduction to AI in Azure** – Microsoft
-* **Artificial Intelligence for Business** – LinkedIn Learning
-* **Python Programming (Beginner & Intermediate)** – Microsoft
-* **Applications of Artificial Intelligence** – British University in Egypt (BUE)
-
----
-
-## 🏆 Events & Activities
-
-* **Cairo ICT Conference 2025** – Attendee
-* **GDG AI Day Cairo** – AI Student Participant
-
-  * LLMs & Generative AI
-  * RAG Systems & Prompt Engineering
-  * Arabic NLP
-
----
-
-## 🌍 Languages
-
-* Arabic (Native)
-* English (Good)
-* French (Basic)
-
----
-
-## 📫 Connect With Me
-
-* 📧 Email: **[mazenwagih2005@gmail.com](mailto:mazenwagih2005@gmail.com)**
-* 💼 LinkedIn: [linkedin.com/in/mazenwagih](https://www.linkedin.com/in/mazenwagih)
-* 🌐 Facebook: [Mazen Wagih](https://www.facebook.com/share/176LsKe77u/)
-
----
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32%" />
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32%" />
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32%" />
-
-</div>
-
----
-
-### ⚡ Fun Fact
-
-> I believe consistency and continuous learning are the real superpowers in tech 🚀
